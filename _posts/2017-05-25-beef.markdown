@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Beef!"
-date:   2017-05-25 17:23:08 -0400
-categories: jekyll update
----
-It's what's for dinner.
