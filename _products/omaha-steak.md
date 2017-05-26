@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Omaha Steak
-price: 45.99
+price: 400.0
 ---
 
 I'm a vegetable.
