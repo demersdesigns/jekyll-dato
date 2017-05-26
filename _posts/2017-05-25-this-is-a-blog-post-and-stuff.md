@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is a blog post
+title: This is a blog post and stuff.
 date: '2017-05-25'
 categories: fun, jekyll, foo
 ---
